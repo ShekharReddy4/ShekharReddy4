@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ShekharReddy4, I am grad student at Tech
-- 👀 I’m interested in Dotnet
-- 🌱 I’m currently learning Angular and React with Dotnet
+- 👋 Hi, I’m @ShekharReddy4
+- 👀 I’m interested in Dotnet, Angular
 - 💞️ I’m looking to collaborate on any opensource project involving Dotnet with any frontend framework
 - 📫 How to reach me ...
 
