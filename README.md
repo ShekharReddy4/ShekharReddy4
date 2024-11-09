@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShekharReddy4
-- 👀 I’m interested in Dotnet, Angular
+- 👀 I’m interested in .Net, Angular
 - 💞️ I’m looking to collaborate on any opensource project involving Dotnet with any frontend framework
 - 📫 How to reach me ...
 
